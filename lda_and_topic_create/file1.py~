@@ -1,0 +1,52 @@
+import lda1.py as lda
+print lda.cluster
+f = open('info1.txt', 'r')
+
+data = f.read()
+array1 = []
+array2 = []
+array3 = []
+array4 = []
+array5 = []
+array6 = []
+array7 = []
+array8 = []
+array9 = []
+array10 = []
+array11 = []
+splat = data.split("\n\n\n")
+for number, paragraph in enumerate(splat, 1):
+    if number % 3 == 0:
+        array1 += [paragraph]
+    elif number % 3 == 1:
+        array2 += [paragraph]
+    elif number % 3 == 2:
+        array3 += [paragraph]
+    elif number % 3 == 3:
+        array4 += [paragraph]
+    elif number % 3 == 4:
+        array5 += [paragraph]
+    elif number % 3 == 5:
+        array6 += [paragraph]
+    elif number % 3 == 6:
+        array7 += [paragraph]
+    elif number % 3 == 7:
+        array8 += [paragraph]
+    elif number % 3 == 8:
+        array9 += [paragraph]
+    elif number % 3 == 9:
+        array10 += [paragraph]
+    elif number % 3 == 10:
+        array11 += [paragraph]
+
+print array1
+print array2
+print array3
+print array4
+print array5
+print array6
+print array7
+print array8
+print array9
+print array10
+print array11
