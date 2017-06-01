@@ -1,0 +1,1 @@
+the applic &quot;loc weather&quot; give overview weather data. you select locat countri world. you check current weather inform well weak weather forcast. the applic give data temperature, cloudiness, speed direct wind, probabl precipitation. you choos °c °f temperatur mph km/h wind speed. locat interest ad bookmarks. for applic work, network connect required.

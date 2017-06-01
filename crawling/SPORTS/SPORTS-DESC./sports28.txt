@@ -1,0 +1,1 @@
+This app contains complete details of Chennai Super Kings team 2014.This includes profile and statistics of each and every players. IPL match fixture is also available in this app.This will have access to features of CSK such as fan zone,Kings club,Team news,Video gallery ect

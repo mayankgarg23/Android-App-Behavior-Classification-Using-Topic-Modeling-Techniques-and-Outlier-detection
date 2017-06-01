@@ -1,0 +1,1 @@
+This application shows current local outdoor temperature, measured nearby weather station uses current location.Features:- shows different background color temperature- temperature automatically updated every 30min- toggle Fahrenheit Celsius- location automatically updated move 3 miles/5kmAd supported freeware

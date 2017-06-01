@@ -1,0 +1,1 @@
+This application plugin CyanogenMod&#39;s weather api&#39;s, providing real time weather data listeners Yahoo. It requires least API level 5 higher CyanogenMod build you&#39;re running.Keyword: cyanogenmodweatherprovider

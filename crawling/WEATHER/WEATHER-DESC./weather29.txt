@@ -1,0 +1,1 @@
+7-day weather forecast and current weather for major cities - Mumbai, Delhi, Bengalore, Hyderabad, Ahmedabad, Chennai, Kolkata, Surat, Pune, Jaipur, Lucknow, Kanpur. Widget with color and transparency of your choice. Weather map for the whole country.

@@ -1,0 +1,1 @@
+In this application you will find complete schedule , match time, live score, point table and team list with their details.You Will Also Find :* About IPL 2016*Nice UI* Match Time* Team List* Player List with Details* Live Score *Chat*Live TV* Point TableIf you find any kind of bug please comment here or mail us.

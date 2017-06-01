@@ -1,0 +1,1 @@
+This app measures ambient room temperature degrees Celsius (°C) Fahrenheit (°F). Measure ambient temperature near Android-powered device. Your hardware-based mobile temperature sensor used find temperature. This apps works device temperature sensor. The temperature sensor device works like thermometer.

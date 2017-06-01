@@ -1,0 +1,1 @@
+MP3 editor application give you full support to Edit Audio files.OPTIONS* Cut your favorite Audio and MP3 files* Join  Audio and MP3 files*Share audio files*Delete and Play MP3 files*This application based on Ringdroid open source code of http://code.google.com/p/ringdroid/

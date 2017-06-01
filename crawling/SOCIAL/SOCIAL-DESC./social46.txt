@@ -1,0 +1,1 @@
+A voter can check whether his/her name has been included in the electoral roll of the constituency and can also find out the polling station using this application. The application fetches the information over the mobile internet.

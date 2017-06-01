@@ -1,0 +1,1 @@
+this app measur ambient room temperatur degre celsius (°c) fahrenheit (°f). measur ambient temperatur near android-pow device. your hardware-bas mobil temperatur sensor use find temperature. this app work devic temperatur sensor. the temperatur sensor devic work like thermometer.

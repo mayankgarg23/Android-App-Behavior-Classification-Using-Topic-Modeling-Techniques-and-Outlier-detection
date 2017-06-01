@@ -1,0 +1,1 @@
+veryfit2.0 main function includ check exercise, monitor sleep quality, intellig alarm clock wake up, etc. applic real-tim view physic activ calori consumption, monitor effect walk running. when veryfit2.0 enter sleep state monitoring, record deep shallow sleep, sleep time, sleep help user monitor sleep quality. becaus applic need implement background remind, run background.

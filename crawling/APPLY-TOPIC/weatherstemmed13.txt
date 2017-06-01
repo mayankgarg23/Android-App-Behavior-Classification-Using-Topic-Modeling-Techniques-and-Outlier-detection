@@ -1,0 +1,1 @@
+this applic show current local outdoor temperature, measur nearbi weather station use current location.features:- show differ background color temperature- temperatur automat updat everi 30min- toggl fahrenheit celsius- locat automat updat move 3 miles/5kmad support freewar
