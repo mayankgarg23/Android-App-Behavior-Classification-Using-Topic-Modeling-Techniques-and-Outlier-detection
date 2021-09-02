@@ -1,5 +1,5 @@
 # CHABADA
-Checking app behaviour against app description
+Checking App Behaviour Against App Description
 
 • To check whether the android app is behaving as advertised or not.
 • To check whether an app can be malicious for the user as if it is accessing the user’s device without permission or if it is accessing that information that this kind of apps doesn’t require.
